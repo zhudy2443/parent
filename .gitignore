@@ -1,0 +1,5 @@
+# Project exclude paths
+/maven-dao/target/
+/maven-pojo/target/
+/maven-service/target/
+/maven-web/target/
